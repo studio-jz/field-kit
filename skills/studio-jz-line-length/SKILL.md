@@ -5,7 +5,7 @@ license: CC-BY-4.0
 metadata:
   author: Joost van der Zwan, Studio JZ
   source: https://softwarebehavior.com/notes/jz-003
-  version: 1.0.0
+  version: 1.0.1
   status: in-review
 ---
 

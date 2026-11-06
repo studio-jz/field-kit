@@ -5,8 +5,8 @@ Every claim in the skill, where it is confirmed, and whether it has been checked
 | Claim | Where | Verified in full text | Note |
 |---|---|---|---|
 | 100 characters per line was read faster than 25 characters per line on screen. | Dyson & Kipping (1998); Dyson & Haselgrove (2001) | yes |  |
-| 55 characters per line was understood better than 100. | Dyson & Haselgrove (2001), full text | **no** | Confirmed only in secondary sources so far (Dyson 2004 review and summaries). Check in the full paper before release. |
-| People rated about 55 characters per line as easiest to read. | Dyson & Haselgrove (2001); Dyson (2004) | **no** | Check in the full paper before release. |
+| 55 characters per line was understood better than 100. | Dyson & Haselgrove (2001), full text | **no** | Dyson (2004), the first author's own review, section 3.2: 55 cpl gave better comprehension than 100 cpl, 25 cpl fell in between, no interaction with reading speed. Still to check in the 2001 full text before release. |
+| People rated about 55 characters per line as easiest to read. | Dyson & Kipping (1998), as reported in Dyson (2004), section 2.9 | **no** | Check in the full paper before release. |
 
 ## Sources
 - Dyson, M. C. & Kipping, G. J. (1998). The effects of line length and method of movement on patterns of reading from screen. Visible Language, 32, 150–181.

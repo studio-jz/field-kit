@@ -12,11 +12,12 @@ By Joost van der Zwan · Studio JZ · CC BY 4.0
 | Skill | Note | Use it for | Version | Status |
 |---|---|---|---|---|
 | `studio-jz-first-glance` | [JZ-002 First impressions](https://softwarebehavior.com/notes/jz-002) | homepages, landing pages, marketing pages, app start screens, store listings, hero sections and any first screen a new visitor sees | 1.0.0 | released |
-| `studio-jz-line-length` | [JZ-003 Line length](https://softwarebehavior.com/notes/jz-003) | articles, documentation, help pages, blog posts, long-form reading, email bodies, terms and any column of body text | 1.0.0 | in-review |
+| `studio-jz-line-length` | [JZ-003 Line length](https://softwarebehavior.com/notes/jz-003) | articles, documentation, help pages, blog posts, long-form reading, email bodies, terms and any column of body text | 1.0.1 | in-review |
 | `studio-jz-looks-or-rules` | [JZ-004 Pretty feels easier](https://softwarebehavior.com/notes/jz-004) | visual design of screens, forms, dashboards, kiosks and interfaces; design reviews of a mockup; choosing between a polished and a plain version | 1.0.0 | released |
 | `studio-jz-show-the-work` | [JZ-005 Show the work](https://softwarebehavior.com/notes/jz-005) | loading states, progress indicators, search and results screens, AI that is thinking or generating, background jobs and any wait of more than about a second | 1.0.0 | released |
 | `studio-jz-algorithm-miss` | [JZ-006 One mistake](https://softwarebehavior.com/notes/jz-006) | recommendations, forecasts, rankings, AI suggestions and generated drafts, autocomplete, and how a product behaves after its model gets something wrong | 1.0.0 | released |
 | `studio-jz-head-start` | [JZ-007 Two free stamps](https://softwarebehavior.com/notes/jz-007) | onboarding flows, setup checklists, progress bars, profile completion, loyalty programs and any multi-step goal a user has to finish | 1.0.0 | in-review |
+| `studio-jz-apple-corners` | [JZ-008 Apple corners](https://softwarebehavior.com/notes/jz-008) | buttons, cards, app icons, sheets, avatars and any rounded shape in an interface | 1.0.0 | in-review |
 | `studio-jz-design-review` | All notes | Reviewing a screen, flow, prototype or screenshot | 1.0.0 | released |
 <!-- skills:end -->
 

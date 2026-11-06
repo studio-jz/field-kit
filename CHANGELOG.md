@@ -12,6 +12,7 @@ The first Field Kit: one skill per Field Note and the design review skill.
 - `studio-jz-show-the-work` (JZ-005 Show the work)
 - `studio-jz-algorithm-miss` (JZ-006 One mistake)
 - `studio-jz-head-start` (JZ-007 Two free stamps) · in review: completion figures to check in the full paper
+- `studio-jz-apple-corners` (JZ-008 Apple corners) · in review: the Figma corner-smoothing preset to confirm
 - `studio-jz-design-review` (all notes and the frameworks)
 
-Releases when the two open checks are done and the install steps are confirmed for each tool.
+Releases when the three open checks are done and the install steps are confirmed for each tool.
